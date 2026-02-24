@@ -275,8 +275,8 @@ class Person2
     public Person2(string name, int age)
     {
         
-        this._name = name;
-        this._age = age;
+        _name = name;
+        _age = age;
     }
 
     public void SetFriend(Person2 friend)
